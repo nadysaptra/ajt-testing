@@ -14,7 +14,7 @@
 
 # Development
 
-- open a terminal and run `php artisan serve --port=8000`
+- open a terminal and run `php artisan serve --port=8002`
 - open a new terminal and run `npm run hot` for hot-reload. check package.json > scripts
 
 PORTED from https://github.com/geowrgetudor/laravel-inertia-vue-ssr
